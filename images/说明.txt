@@ -1,0 +1,4 @@
+手机端新年贺卡，主要使用html5和CSS3
+使用CSS3的transition和animation动画
+使用HTML5的Audio API完成音乐交互
+利用JavaScript和伪类制作出绚丽的交互效果
